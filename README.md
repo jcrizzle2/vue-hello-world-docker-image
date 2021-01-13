@@ -14,3 +14,7 @@ Runs a containerized version of the basic hello_world Node.js app at: [Vue CLI](
 
 **Please see link below for more information**
 - [Containerizing the VUE Hello World Node Application](https://github.com/jcrizzle2/vue-cli-docker-container)
+
+**Accessing the app.**
+The docker run command binds the application to 127.0.0.1 to port 8080. To view the Node application in a browser you can type: 
+- [http://localhost:8080](*http://localhost:8080)
